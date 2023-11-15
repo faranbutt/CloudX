@@ -39,12 +39,12 @@ Source: https://www.cjpl.in/2023/08/02/why-is-renting-a-server-better-than-buyin
 
 </details>
 
-## Demo App URL:
-https://dapp.vercel.app/
+## Pitch Deck:
+Pitch [Slides](https://docs.google.com/presentation/d/1gRhnYhKosEmkNN58Qs2s_og2tHXyvvJyaoYiGRBCmN8/edit?usp=drivesdk)
 
 ## Video Demo
 
-View the Demo [App](https://youtu.be/DP6sNf5o3a8)
+View the [Demo](https://www.youtube.com/watch?v=yrIx83oszoA&feature=youtu.be)
 
 ## Cover
 ![y1](https://github.com/layinka/cloudX/blob/main/dApp/public/cloudx.gif)
