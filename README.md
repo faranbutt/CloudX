@@ -122,7 +122,7 @@ npm run merge
 
 ## Hackathon Link
 
-Hackathon [Submission](https://dorahacks.io/hackathon/build-a-bull/detail)
+Hackathon [Submission]([https://dorahacks.io/hackathon/build-a-bull/detail](https://dorahacks.io/buidl/8038))
 
 ## License
 
