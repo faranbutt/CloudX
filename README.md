@@ -47,7 +47,7 @@ Pitch [Slides](https://docs.google.com/presentation/d/1gRhnYhKosEmkNN58Qs2s_og2t
 View the [Demo](https://www.youtube.com/watch?v=yrIx83oszoA&feature=youtu.be)
 
 ## Cover
-![y1](https://github.com/layinka/cloudX/blob/main/dApp/public/cloudx.gif)
+![y1](https://github.com/faranbutt/CloudX/blob/main/cloudx%20(online-video-cutter.com)(1).gif)
 
 
 ## Why blockchain?
