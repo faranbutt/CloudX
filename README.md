@@ -23,8 +23,8 @@ Source: https://www.cjpl.in/2023/08/02/why-is-renting-a-server-better-than-buyin
 
 - [Application Description](#application-description)
 - [Table of Contents](#table-of-contents)
-- [Application Deployed](#demo-app-url)
-- [Project Demo](#demo)
+- [Pitch Deck][#pitch-deck]
+- [Project Demo](#video-demo)
 - [Cover](#cover)
 - [Why blockchain](#why-blockchain)
 - [Why Milkomedia Algorand Rollup?](#why-milkomedia-algorand-rollup)
